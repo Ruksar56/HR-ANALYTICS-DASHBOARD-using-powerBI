@@ -7,6 +7,8 @@ OBJECTIVE:
 This dashboard provides valuable insights into attrition within the organisation and helps HR professionals make data-driven decisions 
 to enhance employee retention and job satisfaction.
 
+
+
 STEPS PERFORMED:
 
 1.Firstly I have taken the data set from the internet in excel format and imported it into the power BI.
@@ -27,11 +29,18 @@ KPI's:
 - Active employees.
 - Average age.
 
+
+
 VISUALIZATIONS USED ARE:
+
 1.Dynamic KPI'S
+
 2.Slicers.
+
 3.Matrix table and stacked bar chart.
+
 4.pie chart and donut charts etc.,
+
 
 By utilizing this HR analytics dashboard,organizations can gain deeper insights into attrition trends,pinpoint areas of
 concern and implement targeted strategies to enhance employee retention and job satisfaction.
