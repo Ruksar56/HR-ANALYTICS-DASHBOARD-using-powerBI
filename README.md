@@ -1,7 +1,8 @@
 # HR-ANALYTICS-DASHBOARD-using-powerBI
 
 OBJECTIVE:
- To help an organization to improve employee performance and improve retention(reduce attrition) by creating a HR Analytics Dashboard.
+
+To help an organization to improve employee performance and improve retention(reduce attrition) by creating a HR Analytics Dashboard.
 
 
 This dashboard provides valuable insights into attrition within the organisation and helps HR professionals make data-driven decisions 
@@ -39,7 +40,7 @@ VISUALIZATIONS USED ARE:
 
 3.Matrix table and stacked bar chart.
 
-4.pie chart and donut charts etc.,
+4.Pie chart and donut charts etc.,
 
 
 By utilizing this HR analytics dashboard,organizations can gain deeper insights into attrition trends,pinpoint areas of
