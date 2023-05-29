@@ -5,7 +5,7 @@ OBJECTIVE:
 To help an organization to improve employee performance and improve retention(reduce attrition) by creating a HR Analytics Dashboard.
 
 
-This dashboard provides valuable insights into attrition within the organisation and helps HR professionals make data-driven decisions 
+This dashboard provides valuable insights into attrition within the organization and helps HR professionals make data-driven decisions 
 to enhance employee retention and job satisfaction.
 
 
